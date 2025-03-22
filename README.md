@@ -23,8 +23,6 @@ Ayrıca, kullanıcıların **tek bir tıkla raporlara ulaşabilmesi** ve **detay
 Bu proje özellikle **esnaflar ve küçük yapıdaki şirketler** için tasarlanmıştır.  
 Kullanıcı grubunun ihtiyaçlarına yönelik **basit, anlaşılır ve etkili bir stok takip sistemi** geliştirilmiştir.
 
----
-
 ## **Kullanılan Teknolojiler ve Araçlar**  
 Bu projede aşağıdaki teknolojiler ve araçlar kullanılmıştır:  
 
