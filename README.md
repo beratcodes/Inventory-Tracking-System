@@ -21,16 +21,7 @@ Ayrıca, kullanıcıların **tek bir tıkla raporlara ulaşabilmesi** ve **detay
 
 ## **Hedef Kitle**  
 Bu proje özellikle **esnaflar ve küçük yapıdaki şirketler** için tasarlanmıştır.  
-Kullanıcı grubunun ihtiyaçlarına yönelik **basit, anlaşılır ve etkili bir stok takip sistemi** geliştirilmiştir.  
-
-## **Rapor İçeriği**  
-Bu raporun ilerleyen bölümlerinde şu konular ele alınacaktır:  
-
-1. **Projenin Tasarım Süreci**  
-2. **Kullanılan Teknolojiler**  
-3. **Kodlama Detayları**  
-4. **Test Aşamaları**  
-5. **Elde Edilen Sonuçlar**  
+Kullanıcı grubunun ihtiyaçlarına yönelik **basit, anlaşılır ve etkili bir stok takip sistemi** geliştirilmiştir.
 
 ---
 
